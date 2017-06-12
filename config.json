@@ -4,5 +4,7 @@
   "DB_ROOT_PASS": "",
   "PGUSER": "",
   "PGPASS": "",
-  "PGNAME": ""
+  "PGNAME": "",
+  "BUCKET_NAME": "",
+  "BUCKET_LOCATION": ""
 }
